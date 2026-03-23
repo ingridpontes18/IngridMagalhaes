@@ -1,0 +1,34 @@
+# Ambiente Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados
+*.xlsx
+*.csv
+*.log
+
+# PDFs e outputs
+saida/
+output/
+resultados/
+
+# Configurações locais
+*.env
+config_local.yaml
+
+# IDEs
+.vscode/
+.idea/
+
+# Testes temporários
+tests/__pycache__/

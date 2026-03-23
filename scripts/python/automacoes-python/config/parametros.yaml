@@ -1,0 +1,12 @@
+paths:
+  entrada: "dados/entrada"
+  saida: "dados/saida"
+
+relatorios:
+  formato_padrao: "pdf"
+  margem_superior: 50
+
+web:
+  timeout: 10
+  headers:
+    user_agent: "Mozilla/5.0"

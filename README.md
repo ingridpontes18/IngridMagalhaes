@@ -11,5 +11,5 @@ Atuo com Python, JavaScript e Power BI, desenvolvendo soluções que integram si
 - Integração de dados
 
 📫 Contato:
-- LinkedIn: (seu link)
-- Email: (seu email)
+- LinkedIn: www.linkedin.com/in/ingrid-pontes-9298a9353
+- Email: ingridpontes18@hotmail.com

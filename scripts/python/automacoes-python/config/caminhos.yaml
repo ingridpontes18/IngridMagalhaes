@@ -1,0 +1,13 @@
+paths:
+  base: "scripts/python/automacoes-python"
+
+  entrada:
+    dados: "dados/entrada"
+    pdfs: "dados/entrada/pdfs"
+    planilhas: "dados/entrada/planilhas"
+
+  saida:
+    dados: "dados/saida"
+    relatorios: "dados/saida/relatorios"
+    graficos: "dados/saida/graficos"
+    logs: "dados/saida/logs"
