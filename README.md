@@ -69,4 +69,6 @@ Os projetos foram estruturados para fins de portfólio, mantendo a lógica e org
 
 ## 📬 Contato
 
-Disponível para oportunidades como freelancer ou projetos na área de desenvolvimento, automação e dados.
+Disponível para oportunidades como freelancer ou projetos na área de desenvolvimento, automação e dados
+LinkedIn: www.linkedin.com/in/ingrid-pontes-9298a9353
+Email: ingridpontes18@hotmail.com
